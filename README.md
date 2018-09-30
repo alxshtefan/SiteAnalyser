@@ -10,7 +10,7 @@ Tools of the project:
 * Log4J
 * JSoup
 
-For more information about **JSOUP** visit [link](https://jsoup.org/).
+For more information about **JSOUP** visit [link](_blank/https://jsoup.org/).
 
 Tiny tutorial is [here](http://www.vogella.com/tutorials/jsoup/article.html).
 
